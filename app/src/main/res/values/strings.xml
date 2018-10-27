@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Coffee Hub</string>
+    <string name="current_orders">Current Orders</string>
+    <string name="title_activity_place_order">PlaceOrder</string>
+    <string name="americano">americano</string>
+    <string name="cappuchino">cappuchino</string>
+    <string name="latte">latte</string>
+    <string name="pref_previously_started">pref_previously_started</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="order_details">Order Details</string>
+    <string name="no_of_cups">No. of cups</string>
+    <string name="name">Name</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="type_of_coffee">Type of Coffee</string>
+    <string name="recent_orders">Recent Orders</string>
+    <string name="_2">$2</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="thanks_for_ordering_your_coffee_s_on_the_way">Thanks for Ordering , your coffee\'s on the way</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="ok">Ok</string>
+    <string name="next">Next</string>
+
+    <string-array name="coffee_names">
+        <item>Americano</item>
+        <item>Cappuccino</item>
+        <item>Latte</item>
+        <item>Mocha</item>
+    </string-array>
+
+    <string-array name="no_of_cups">
+        <item>No. of cups</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
